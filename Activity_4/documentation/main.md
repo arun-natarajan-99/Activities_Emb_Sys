@@ -1,1 +1,5 @@
-@mainpage Blinky by Arun N @subpage project_main.c
+@mainpage Blinky by Arun N @subpage main.c
+
+
+
+
