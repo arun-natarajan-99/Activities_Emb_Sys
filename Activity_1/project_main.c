@@ -9,14 +9,17 @@
  *
  */
 
+#include "atm328.h"
+#include <util/delay.h>
 #include <avr/io.h>
-#include <util/delay.h> // Delay Library
 
+
+ void port();
 
 int main(void)
 {
-
 port();
+
     while(1)
     {
         if(!(PIND&(1<<PD0))) // switch press
@@ -37,3 +40,5 @@ port();
 
     return 0;
 }
+
+
