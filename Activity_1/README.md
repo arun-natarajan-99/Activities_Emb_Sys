@@ -4,9 +4,9 @@
 
 ## In Action
 
-|ON|OFF|
-|:--:|:--:|
-|![ON](simulation/Screenshot 1.png)|![OFF](simulation/Screenshot 4.png)|
+
+simulation/Screenshot 1.png
+simulation/Screenshot 4.png
 
 #### CI and Code Quality
 
