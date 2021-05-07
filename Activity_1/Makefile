@@ -3,9 +3,7 @@ PROJ_NAME = Ac1
 BUILD_DIR = Build
 
 # All Source code files
-SRC = main.c
-
-SRC += src\port.c
+SRC = main.c\port.c
 
 # All header file paths
 INC = -I inc
